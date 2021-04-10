@@ -9,7 +9,7 @@
 ## 3. 工具的下载与安装 ##
 - 从代码仓库下载源代码；
 ```bash
-git clone https://github.com/pyhustsong/rosbag-to-pointcloud.git
+git clone https://github.com/PySonger/rosbag-to-pointcloud.git
 ```
 - 进入源码目录，使用 catkin_make 编译源代码；
 ```bash
